@@ -1,20 +1,150 @@
+<!-- ===================== HEADER ===================== -->
+
 <h1 align="center">Hi 👋, I'm Kundan Singh</h1>
-<h3 align="center">A Passionate Dot Net Developer from India</h3>
+<h3 align="center">🚀 Full Stack .NET Developer | ASP.NET Core | React | SQL Server</h3>
 
-- 🌱 I’m currently learning **Asp DotNet Core Mvc**
-
-- 👨‍💻 All of my projects are available at [kundan.webtechsolution.net](http:/kundan.webtechsolution.net)
-
-- 📫 How to reach me **kundansingh22199@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kundan-kumar-757a6b258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kundan-kumar-757a6b258" height="30" width="40" /></a>
-<a href="https://fb.com/kundanrajpoot.0422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kundanrajpoot.0422" height="30" width="40" /></a>
-<a href="https://instagram.com/kundansingh_0422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_kundan_0422" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=ASP.NET+Core+Developer;React+Frontend+Developer;REST+API+Expert;SQL+Server+Specialist;Full+Stack+Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kundansingh22199&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundansingh22199&show_icons=true&locale=en&layout=compact" alt="kundansingh22199" /></p>
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+## 💼 About Me
+
+* 🔭 Currently working on **.NET Core + React Applications**
+* 🌱 Learning **Advanced ASP.NET Core MVC & Microservices**
+* 💡 Strong in **API Development, Authentication & Database Design**
+* ⚡ Expertise in **Full Stack Development**
+* 🌐 Portfolio: http://kundan.webtechsolution.net
+* 📧 Email: **[kundansingh22199@gmail.com](mailto:kundansingh22199@gmail.com)**
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Tech Stack
+
+### 🚀 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,mssql" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
+
+### ⚙️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+<!-- ===================== SKILLS ===================== -->
+
+## 📌 Core Skills
+
+✔ ASP.NET Core Web API
+✔ Entity Framework Core
+✔ SQL Server (Stored Procedures, Optimization)
+✔ React JS (Hooks, Routing, API Integration)
+✔ Authentication (JWT / Token Based)
+✔ REST API Design
+✔ Clean Architecture
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+### 🔹 Product Management System
+
+* ASP.NET Core Web API + React
+* Category / SubCategory / Product CRUD
+* Image Upload + Token Authentication
+
+### 🔹 E-Commerce Backend API
+
+* Complete Order & Payment Flow
+* GST Calculation Logic
+* Secure Token APIs
+
+### 🔹 Dynamic Tree Structure
+
+* 2x2 & 3x3 Hierarchy System
+* Razor + SQL + Backend Logic
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundansingh22199&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundansingh22199&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundansingh22199&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kundansingh22199&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/kundan-kumar-757a6b258" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:kundansingh22199@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://instagram.com/kundansingh_0422" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://fb.com/kundanrajpoot.0422" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+</a>
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+## ⚡ Fun Fact
+
+💻 I turn **coffee ☕ into scalable APIs & modern web apps**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
